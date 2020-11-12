@@ -1,0 +1,2 @@
+# fanjurecommand
+fanju
